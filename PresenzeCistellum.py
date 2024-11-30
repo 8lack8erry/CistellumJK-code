@@ -60,9 +60,6 @@ NomeCorso = input("Inserire il nome del corso:\t")
 NomeFile = input("\nInserire il nome del file '.csv':\t")
 tab = pd.read_csv(NomeFile + ".csv")
 
-# NomeCorso = "RC"
-# tab = pd.read_csv("Ricomposizione corporea ragazzi (Risposte) - Risposte del modulo 1.csv")
-
 date = tab["Informazioni cronologiche"]
 
 giorni = []
