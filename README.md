@@ -1,4 +1,4 @@
-# Cistellum Judo-Karate Attendance Tracker
+# Cistellum Judo-Karate codice presenze
 
 <div align="center">
   <img src="LogoCistellumJK.png" alt="Cistellum Judo-Karate Logo" width="160">
