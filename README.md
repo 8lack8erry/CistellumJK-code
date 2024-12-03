@@ -1,6 +1,6 @@
 # Cistellum Judo-Karate Attendance Tracker
 
-![Cistellum Judo-Karate Logo](LogoCistellumJK.png)
+<img src="LogoCistellumJK.png" alt="Cistellum Judo-Karate Logo" width="200">
 
 Questo repository contiene un programma Python sviluppato per la società sportiva **Cistellum Judo-Karate**. Il codice permette di analizzare la frequenza di coach e atleti ai corsi offerti dalla società, elaborando classifiche e statistiche mensili.
 
