@@ -18,5 +18,6 @@ Assicurati che i dati siano organizzati in un file `.csv` con le seguenti colonn
   - **Informazioni cronologiche**: Data in formato `DD/MM/YYYY` (per la lingua italiana) o `MM/DD/YYYY` (per l'inglese).
   - **Coach**: Nomi dei coach separati da virgole.
   - **Atleti**: Nomi degli atleti separati da virgole
+
 Gli ultimi due punti sono verificati di default se scarichi il file come `.csv` da google moduli
 
